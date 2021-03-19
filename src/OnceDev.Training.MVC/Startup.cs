@@ -12,7 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace OnceDev.Training.MVC
-{//test
+{
     public class Startup
     {
         public Startup(IConfiguration configuration)
